@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I've worked leading and developing in multiple projects ranging from chatbots  and small ML projects up to websites and mobile apps. :octocat:
+
+I love learning new things and getting to understand modern engineering solutions to expand my reasoning variety. Everything from science, music, nature, or psychology can provide new ways to comprehend challenges and create comprehensive solutions. :nerd_face:
+
+> Never stop learning! 
